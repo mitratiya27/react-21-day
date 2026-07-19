@@ -27,6 +27,7 @@ function RegistrationForm () {
             alert("Minimum 6 Characters");
         }
         else {console.log("Submitted");}
+        console.log(inputData);
     }
 
   return (
