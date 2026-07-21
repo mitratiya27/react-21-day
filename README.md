@@ -23,15 +23,15 @@ This repository contains my daily learning progress, hands-on projects, and prac
 | ✅ Day 2 | JSX, Functional Components, Import & Export | Completed |
 | ✅ Day 3 | Props & Reusable Components | Completed |
 | ✅ Day 4 | useState & Event Handling | Completed |
-| ⏳ Day 5 | Lists & Conditional Rendering | Upcoming |
-| ⏳ Day 6 | useEffect & Fetch API | Upcoming |
-| ⏳ Day 7 | Student Management Mini Project | Upcoming |
-| ⏳ Day 8 | React Router | Upcoming |
-| ⏳ Day 9 | Forms & Validation | Upcoming |
-| ⏳ Day 10 | Lifting State Up | Upcoming |
-| ⏳ Day 11 | Context API | Upcoming |
-| ⏳ Day 12 | Reusable Components | Upcoming |
-| ⏳ Day 13 | API Integration | Upcoming |
+| ✅ Day 5 | Lists & Conditional Rendering | Completed |
+| ✅ Day 6 | useEffect & Fetch API | Completed |
+| ✅ Day 7 | Student Management Mini Project | Completed |
+| ✅ Day 8 | React Router | Completed |
+| ✅ Day 9 | Forms & Validation | Completed |
+| ✅ Day 10 | Lifting State Up | Completed |
+| ✅ Day 11 | Context API | Completed |
+| ✅ Day 12 | Reusable Components | Completed |
+| ✅ Day 13 | API Integration | Completed |
 | ⏳ Day 14 | Search, Filter & Sorting | Upcoming |
 | ⏳ Day 15 | Project Structure | Upcoming |
 | ⏳ Day 16 | Axios | Upcoming |
@@ -48,133 +48,14 @@ This repository contains my daily learning progress, hands-on projects, and prac
 ```
 react-21-day/
 │
-├── react-day1/
-├── react-day2/
-├── react-day3/
-├── react-day4/
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Day-04/
 │
 ├── README.md
 └── .gitignore
 ```
-
----
-
-# 📚 Day 1 – React Setup with Vite
-
-### Topics Covered
-
-- Installing Node.js
-- Installing Git
-- Installing VS Code
-- Creating React Project using Vite
-- Understanding React Folder Structure
-- Running First React Application
-
-### Skills Learned
-
-- React Project Setup
-- npm Commands
-- Folder Structure
-- Vite Development Server
-
----
-
-# 📚 Day 2 – JSX & Components
-
-### Topics Covered
-
-- JSX
-- Functional Components
-- Import & Export
-- Component Structure
-
-### Project
-
-- Navbar
-- Hero Section
-- About Section
-- Footer
-
-### Skills Learned
-
-- Creating Components
-- Reusability
-- Component Organization
-
----
-
-# 📚 Day 3 – Props
-
-### Topics Covered
-
-- Props
-- Passing Data
-- Reusable Components
-
-### Project
-
-- Reusable Profile Card
-- Multiple Cards using Props
-
-### Skills Learned
-
-- Parent to Child Communication
-- Dynamic Rendering
-- Component Reusability
-
----
-
-# 📚 Day 4 – useState & Event Handling
-
-### Topics Covered
-
-- useState Hook
-- Event Handling
-- State Updates
-
-### Projects
-
-- Counter App
-- Toggle Theme
-- Name Input
-
-### Skills Learned
-
-- Managing State
-- Handling Button Click Events
-- Controlled Input Fields
-- Conditional Rendering
-
----
-
-# 🛠 Tech Stack
-
-- React.js
-- Vite
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Git
-- GitHub
-
----
-
-# 🎯 Goals
-
-- Learn React Fundamentals
-- Build Real-world React Projects
-- Improve Problem Solving
-- Learn Clean Code Practices
-- Prepare for React Internship Interviews
-
----
-
-# 📈 Progress
-
-- ✅ 4 Days Completed
-- 🚧 17 Days Remaining
-
----
 
 # 📬 Connect
 
